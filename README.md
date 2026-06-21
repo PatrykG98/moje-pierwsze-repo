@@ -5,3 +5,4 @@ Przykładowy projekt
 - Generowanie raportów
 - Wysyłanie wiadomości e-mail
 - **Projekt trwa.**
+- "test"
