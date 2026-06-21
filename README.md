@@ -1,3 +1,4 @@
+TEKST
 # moje-pierwsze-repo
 #RRR
 ## Opis
