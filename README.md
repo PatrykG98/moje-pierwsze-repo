@@ -1,3 +1,4 @@
+TEKST
 # moje-pierwsze-repo
 ## Opis
 Przykładowy projekt
